@@ -1,0 +1,28 @@
+.bg {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 180px;
+  background-color: khaki;
+  height: 50px;
+  padding-top: 4px;
+}
+nav li a {
+  margin-left: 20px;
+  margin-right: 6px;
+  font-weight: 700;
+  font-size: medium;
+}
+nav li a:hover {
+  text-decoration: none;
+}
+nav {
+  background-color: lightblue;
+  height: 50px;
+  padding-top: 12px;
+}
+.btn-secondary {
+  text-align: justify;
+  margin-left: 620px;
+  margin-right: auto;
+  letter-spacing: 0.2em;
+}
